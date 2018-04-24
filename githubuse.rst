@@ -4,8 +4,9 @@
 	在每个github的右上角，都有三个按钮，分别是 watch、star、fork，如下图
 	.. image::../images/1.png
 	下面分别介绍这三个标记的含义及使用方法：
-	1. watch
-	#. star
-	#. fork
-	456
+
+1. watch
+#. star
+#. fork
+	
 
