@@ -33,8 +33,7 @@ GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即up
 
 4. 使用建议
 ------------------
-+ 对于一些可能会经常发生变化的会不定期更新的好项目 多使用 watch.
-需要注意的是，如果 watch多了，你可能会被无休止的邮件通知烦死（邮件通知可设置），因为被 watch 项目有任何留言、PR等更新都会触发通知，所以做好权衡。
++ 对于一些可能会经常发生变化的会不定期更新的好项目 多使用 watch.需要注意的是，如果 watch多了，你可能会被无休止的邮件通知烦死（邮件通知可设置），因为被 watch 项目有任何留言、PR等更新都会触发通知，所以做好权衡。
 + 持续关注别人项目更新就star一下
 + 修改开源项目就使用 fork，这样你就可以拷贝到自己的账号下，在原项目的基础上，对项目进行修改提交。
 
@@ -43,7 +42,5 @@ GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即up
 参考资料：
 ::::::::::::::::
 
-- ‘如何用好 github 中的 watch、star、fork
-<https://www.jianshu.com/p/6c366b53ea41>’_
-- ‘github中fork的使用
-<https://www.cnblogs.com/patchouli/p/6511251.html>‘_
+https://www.jianshu.com/p/6c366b53ea41
+https://www.cnblogs.com/patchouli/p/6511251.html
