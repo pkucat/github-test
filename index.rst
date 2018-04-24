@@ -10,8 +10,7 @@ Welcome to rst's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-	githubuse.rst
+   githubuse.rst
 
 
 
