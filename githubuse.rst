@@ -16,7 +16,7 @@ watch 意为观察的意思，点击 watch 可以看到如下的列表：
 
 2. star
 ------------
-star 意为`关注`或者`点赞`，当你点击 star，表示你喜欢这个项目，star的作用是搜藏，目的是方便以后查找。
+star 意为`关注`或者`点赞`，当你点击 star，表示你喜欢这个项目，star的作用是收藏，目的是方便以后查找。
 star和watch的主要区别在于前者不会把项目的动态展示在你的dashboard 里，仅作为收藏功能。
 
 github 里面会有一个列表，专门收集了你所有 star 过的项目，点击 github 个人头像，可以看到 your stars 的条目，点击就可以查看你 star 过的所有项目了，如下图所示
@@ -43,7 +43,5 @@ GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即up
 参考资料：
 ::::::::::::::::
 
-1. 如何用好 github 中的 watch、star、fork_
-.. _: https://www.jianshu.com/p/6c366b53ea41
-2. github中fork的使用_
-.. _: https://www.cnblogs.com/patchouli/p/6511251.html
+-'如何用好 github 中的 watch、star、fork<https://www.jianshu.com/p/6c366b53ea41>'_。
+-'github中fork的使用<https://www.cnblogs.com/patchouli/p/6511251.html>'_。
